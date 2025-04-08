@@ -2,7 +2,7 @@
 
 ### Resumen
 
-El presente informe técnico resume las fases iniciales de este proyecto, detallando los resultados obtenidos a través de nuestro análisis exploratorio de datos (EDA), los procesos de limpieza de datos implementados y la estrategia de gestión de valores nulos. El objetivo principal es identificar patrones, tendencias y relaciones significativas dentro de los datos disponibles, con el fin de proporcionar a ABC Corporation información valiosa y basada en evidencia para fundamentar sus decisiones estratégicas en la gestión de talento.
+Este documento resume las fases iniciales de este proyecto, detallando los resultados obtenidos a través de nuestro análisis exploratorio de datos (EDA), los procesos de limpieza de datos implementados y la estrategia de gestión de valores nulos. El objetivo principal es identificar patrones, tendencias y relaciones significativas dentro de los datos disponibles, con el fin de proporcionar a ABC Corporation información valiosa y basada en evidencia para fundamentar sus decisiones estratégicas en la gestión de talento.
 
 ### Objetivo
 
@@ -41,6 +41,12 @@ Para alcanzar los objetivos definidos, se aplicó la siguiente metodología en c
     * Imputación: Reemplazo de los valores nulos por un valor estimado (media, mediana, moda) o mediante técnicas de imputación más avanzadas (si la naturaleza de los datos lo requería).
 
     * Mantenimiento: En algunos casos, se decidió mantener los valores nulos, especialmente si su ausencia en sí misma podía ser informativa.
+
+***4. Creación de una base de datos***
+
+- Se ha diseñado una base de datos con tres tablas (satisfacción, detalles del empleado y detalles del empleo).
+- Se han creado estas tablas en SQL con sus correspondientes conexiones.
+- Se ha creado la conexión y volcado los datos.
 
 ### Resultados Obtenidos
 
