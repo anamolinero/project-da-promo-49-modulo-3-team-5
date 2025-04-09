@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Proyecto Optimización del talento
 
 Cliente: ABC Corporation
@@ -108,3 +109,6 @@ Esta fase nos permitió continuar analizando las relaciones entre las columnas p
 Si tienes preguntas o sugerencias, no dudes en contactarnos a hello@3DataHers.com estaremos encantadas de absolver tus dudas!
 
 ✨ ¡Gracias por tu interés en nuestro proyecto y seguimos en contacto! 🎉
+=======
+# project-da-promo-49-modulo-3-team-5
+>>>>>>> 40fa05d12b6b6981032645672a63f7ae6bfe940b

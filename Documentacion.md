@@ -22,7 +22,7 @@ Para alcanzar los objetivos definidos, se aplicó la siguiente metodología en c
 
 - Análisis de Variables Individuales: Se examinó la distribución de cada variable mediante (.value_counts()) que indica cuántas veces aparece en la columna y (.unique()) para visualizar todos los valores únicos.
 
-***2. Limpieza de Datos***
+***2. Limpieza de Datos y Gestión de Valores Nulos***
 
 - Identificación de Inconsistencias: Se buscaron inconsistencias en el formato de los datos (números, texto, etc.), errores tipográficos en variables categóricas y posibles duplicados.
 
@@ -30,7 +30,7 @@ Para alcanzar los objetivos definidos, se aplicó la siguiente metodología en c
 
 - Tratamiento de Formatos Inadecuados: Se realizaron conversiones de tipo de datos cuando fue necesario para facilitar el análisis (conversión de columnas de texto que representan números a tipo numérico).
 
-***3. Gestión de Valores Nulos***
+
 
 - Detección y Evaluación: Se identificaron las columnas con valores nulos y se calculó el porcentaje de datos faltantes en cada una. Se analizó la distribución de los valores nulos para identificar posibles patrones o sesgos en su ausencia.
 
@@ -41,6 +41,8 @@ Para alcanzar los objetivos definidos, se aplicó la siguiente metodología en c
     * Imputación: Reemplazo de los valores nulos por un valor estimado (media, mediana, moda) o mediante técnicas de imputación más avanzadas (si la naturaleza de los datos lo requería).
 
     * Mantenimiento: En algunos casos, se decidió mantener los valores nulos, especialmente si su ausencia en sí misma podía ser informativa.
+
+***3. Visulizaciones*** 
 
 ***4. Creación de una base de datos***
 
