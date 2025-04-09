@@ -59,7 +59,7 @@ Esta gráfica nos permitió observar que existe una brecha de género bastante m
 
 🏡 Trabajo remoto y satisfacción:
 
-En esta ocasión con esta gráfica concluímos que el teletrabajo no es una causa de renuncia, sin embargo hay que destacar que los empleados que realizan trabajo en remoto están más satisfechos que los empleados que trabajan de forma presencial.
+En esta ocasión con esta gráfica concluimos que el teletrabajo no es una causa de renuncia, sin embargo hay que destacar que los empleados que realizan trabajo en remoto están más satisfechos que los empleados que trabajan de forma presencial.
 
 🏢 Porcentaje de empleados por departamento vs rotación:
 
@@ -79,7 +79,7 @@ Esta fase nos permitió continuar analizando las relaciones entre las columnas p
 
 ## 🔮 Recomendaciones para ABC Corporation
 
-- Crear un plan para la reducción de la brecha de género, sobretodo algunos puestos podrían requerir políticas personalizadas.
+- Crear un plan para la reducción de la brecha de género, sobre todo algunos puestos podrían requerir políticas personalizadas.
 
 - Implementar programas de retención específicos para empleados jóvenes y aquellos con menos tiempo en la compañía.
 
